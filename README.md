@@ -17,3 +17,10 @@ There are two parts for this project
 2. Then I created a dictionary stating 43 classes, starting from 0 - 42, where each class represents a label.
 3. The dataset used in Training can be found in [Train Folder](https://github.com/Shanmukh-Nath/Traffic-sign/tree/master/Train). 
 4. Then a basic Graphical User Interface(GUI) is designed for handling the model for prediction with upload button and classify image button. 
+
+# Images
+
+### Some GUI Images
+
+[](https://github.com/Shanmukh-Nath/Traffic-sign/blob/master/before.png)
+[](https://github.com/Shanmukh-Nath/Traffic-sign/blob/master/after.png)
