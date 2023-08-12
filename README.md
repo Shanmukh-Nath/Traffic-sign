@@ -22,5 +22,6 @@ There are two parts for this project
 
 ### Some GUI Images
 
-![before](https://i.ibb.co/4WD3R5V/after.png)
-![after](https://github.com/Shanmukh-Nath/Traffic-sign/blob/master/after.png)
+![Before](https://i.ibb.co/xLcDXfZ/before.png)
+![After](https://i.ibb.co/4WD3R5V/after.png)
+
