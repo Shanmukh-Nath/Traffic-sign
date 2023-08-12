@@ -22,6 +22,9 @@ There are two parts for this project
 
 ### Some GUI Images
 
-![Before]<img src="https://i.ibb.co/xLcDXfZ/before.png" width="50%" height="50%">
-![After]<img src="https://i.ibb.co/4WD3R5V/after.png" width="50%" height="50%">
+#### Before
+<img src="https://i.ibb.co/xLcDXfZ/before.png" width="50%" height="50%">
+
+#### After
+<img src="https://i.ibb.co/4WD3R5V/after.png" width="50%" height="50%">
 
